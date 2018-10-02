@@ -1,0 +1,27 @@
+h1, em
+{
+	font-family: 'Bellefair', serif;
+	color: blue;
+	font-size: xx-large;
+}
+
+body
+{
+	background-image: url("http://www.publicdomainpictures.net/pictures/170000/velka/grunge-background-14635619239LT.jpg");
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+p
+{
+	font-size: large;
+	font-family: 'Bellefair', serif;
+	color: white;
+}
+
+a[title="elements"]
+{
+	font-size: medium;
+}
+
+
