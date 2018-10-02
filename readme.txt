@@ -1,4 +1,4 @@
-My firts website in HTML - Responsive
+My first website in HTML - Responsive
 
 
 I used code from:
