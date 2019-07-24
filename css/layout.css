@@ -373,6 +373,54 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
+.csharp {
+   width: 80%;
+   -moz-animation: csharp 2s ease;
+   -webkit-animation: csharp 2s ease;
+}
+
+.sql {
+   width: 55%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
+
+.nosql {
+   width: 70%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
+
+.nodejs {
+   width: 75%;
+   -moz-animation: machinelearning 2s ease;
+   -webkit-animation: machinelearning 2s ease;
+}
+
+.management {
+   width: 90%;
+   -moz-animation: management 2s ease;
+   -webkit-animation: management 2s ease;
+}
+
+.english {
+   width: 80%;
+   -moz-animation: english 2s ease;
+   -webkit-animation: english 2s ease;
+}
+
+.java {
+   width: 50%;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
+}
+
+.iot {
+   width: 75%;
+   -moz-animation: iot 2s ease;
+   -webkit-animation: iot 2s ease;
+}
+
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }

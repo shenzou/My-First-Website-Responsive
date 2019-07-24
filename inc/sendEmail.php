@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'alexandre.shenouda@devinci.fr';
+$siteOwnersEmail = 'contact@alexshenouda.fr';
 
 
 if($_POST) {
